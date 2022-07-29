@@ -25059,7 +25059,7 @@ var UA = /** @class */ (function (_super) {
             userAgentString: Constants_1.C.USER_AGENT,
             // Session parameters
             noAnswerTimeout: 60,
-            // Hacks
+            // Hack
             hackViaTcp: false,
             hackIpInContact: false,
             hackWssInTransport: True,
